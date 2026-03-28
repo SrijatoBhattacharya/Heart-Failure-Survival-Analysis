@@ -21,6 +21,5 @@ The patient data was segmented into two cohorts based on diabetes status. A Kapl
 
 To ensure mathematical rigor, a Log-Rank test was executed to determine if the visual divergence between the curves was statistically significant.
 
-*(Note for Srijato: Drag and drop your `survival_curve.png` image file right here so it displays on your profile)*
-
 **Conclusion:** The Log-Rank test returned a **P-value of 0.8405**. Because the p-value is significantly greater than the standard alpha threshold of 0.05, we conclude that there is **no statistically significant difference** in survival times between the diabetic and non-diabetic cohorts in this specific dataset. Pre-existing diabetes was not the primary driver of mortality for these heart failure patients.
+<img width="640" height="480" alt="heart_failure_analysis" src="https://github.com/user-attachments/assets/4bed8e3d-e73a-42f9-a1e1-65346587bebb" />
